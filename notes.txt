@@ -1,0 +1,6 @@
+installed
+
+jdk 20
+intellij idea
+git
+maven
