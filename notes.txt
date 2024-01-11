@@ -4,3 +4,9 @@ jdk 20
 intellij idea
 git
 maven
+
+executed git commands
+git init
+git add .
+git commit -m "first"
+
